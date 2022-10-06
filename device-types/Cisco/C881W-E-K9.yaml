@@ -1,0 +1,13 @@
+---
+manufacturer: Cisco
+model: C881W-E-K9
+slug: c881w-e-k9
+part_number: C881W-E-K9
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: Con 0
+    type: rj-45
+power-ports:
+  - name: Power Supply 1
+    type: iec-60320-c14

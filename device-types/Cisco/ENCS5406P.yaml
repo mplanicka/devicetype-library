@@ -1,19 +1,26 @@
 ---
 manufacturer: Cisco
-model: ASA5506-X
-slug: asa5506-x
-part_number: ASA5506
+model: ENCS5406P
+slug: ENCS5406P
+part_number: ENCS5406P/K9
 u_height: 1
 is_full_depth: true
 console-ports:
-  - name: Con 0
+  - name: CIMC
     type: rj-45
-  - name: Usb
-    type: usb-a
+  - name: CPU
+    type: rj-45
 power-ports:
-  - name: PS0
+  - name: Power Supply 1
     type: iec-60320-c14
 interfaces:
+  - name: GigabitEthernet0/0
+    type: 1000base-t
+  - name: GigabitEthernet0/1
+    type: 1000base-t    
+  - name: GigabitEthernet1/0
+    type: 1000base-t
+    mgmt_only: false
   - name: GigabitEthernet1/1
     type: 1000base-t
     mgmt_only: false
@@ -35,9 +42,9 @@ interfaces:
   - name: GigabitEthernet1/7
     type: 1000base-t
     mgmt_only: false
-  - name: GigabitEthernet1/8
+  - name: Management-CPU
     type: 1000base-t
-    mgmt_only: false
-  - name: Management1/1
+    mgmt_only: true
+  - name: Management-CIMC
     type: 1000base-t
     mgmt_only: true
