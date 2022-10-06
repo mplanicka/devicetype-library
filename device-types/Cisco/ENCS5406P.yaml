@@ -8,7 +8,7 @@ is_full_depth: true
 console-ports:
   - name: CIMC
     type: rj-45
-  - name: CPU
+  - name: Console
     type: rj-45
 power-ports:
   - name: Power Supply 1
