@@ -7,9 +7,9 @@ u_height: 1
 is_full_depth: false
 comments: '[PA-220 Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-220-specsheet)'
 power-ports:
-  - name: PS1
+  - name: Power Supply 1
     type: nema-1-15p
-  - name: PS2
+  - name: Power Supply 2
     type: nema-1-15p
 console-ports:
   - name: console

@@ -9,11 +9,11 @@ console-ports:
   - name: console
     type: rj-45
 power-ports:
-  - name: PS1
+  - name: Power Supply 1
     type: iec-60320-c14
     maximum_draw: 685
     allocated_draw: 571
-  - name: PS2
+  - name: Power Supply 1
     type: iec-60320-c14
     maximum_draw: 685
     allocated_draw: 571

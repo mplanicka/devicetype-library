@@ -6,7 +6,7 @@ part_number: PA-820
 u_height: 1
 is_full_depth: false
 power-ports:
-  - name: PS1
+  - name: Power Supply 1
     type: iec-60320-c14
     maximum_draw: 200
 console-ports:
