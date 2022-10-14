@@ -105,6 +105,6 @@ interfaces:
   - name: hsci
     type: 100gbase-x-qsfp28
     mgmt_only: false
-  - name: management
+  - name: Management
     type: 1000base-t
     mgmt_only: true

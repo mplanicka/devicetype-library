@@ -13,10 +13,10 @@ console-ports:
   - name: Failover
     type: rj-45
 power-ports:
-  - name: psu1
+  - name: Power Supply 1
     type: iec-60320-c14
     maximum_draw: 330
-  - name: psu2
+  - name: Power Supply 2
     type: iec-60320-c14
     maximum_draw: 330
 interfaces:
