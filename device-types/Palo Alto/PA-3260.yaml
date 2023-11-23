@@ -16,60 +16,60 @@ power-ports:
     type: iec-60320-c14
     maximum_draw: 650
 interfaces:
-  - name: ethernet1/1
+  - name: Ethernet1/1
     type: 1000base-t
-  - name: ethernet1/2
+  - name: Ethernet1/2
     type: 1000base-t
-  - name: ethernet1/3
+  - name: Ethernet1/3
     type: 1000base-t
-  - name: ethernet1/4
+  - name: Ethernet1/4
     type: 1000base-t
-  - name: ethernet1/5
+  - name: Ethernet1/5
     type: 1000base-t
-  - name: ethernet1/6
+  - name: Ethernet1/6
     type: 1000base-t
-  - name: ethernet1/7
+  - name: Ethernet1/7
     type: 1000base-t
-  - name: ethernet1/8
+  - name: Ethernet1/8
     type: 1000base-t
-  - name: ethernet1/9
+  - name: Ethernet1/9
     type: 1000base-t
-  - name: ethernet1/10
+  - name: Ethernet1/10
     type: 1000base-t
-  - name: ethernet1/11
+  - name: Ethernet1/11
     type: 1000base-t
-  - name: ethernet1/12
+  - name: Ethernet1/12
     type: 1000base-t
-  - name: ethernet1/13
+  - name: Ethernet1/13
     type: 10gbase-x-sfpp
-  - name: ethernet1/14
+  - name: Ethernet1/14
     type: 10gbase-x-sfpp
-  - name: ethernet1/15
+  - name: Ethernet1/15
     type: 10gbase-x-sfpp
-  - name: ethernet1/16
+  - name: Ethernet1/16
     type: 10gbase-x-sfpp
-  - name: ethernet1/17
+  - name: Ethernet1/17
     type: 10gbase-x-sfpp
-  - name: ethernet1/18
+  - name: Ethernet1/18
     type: 10gbase-x-sfpp
-  - name: ethernet1/19
+  - name: Ethernet1/19
     type: 10gbase-x-sfpp
-  - name: ethernet1/20
+  - name: Ethernet1/20
     type: 10gbase-x-sfpp
-  - name: ethernet1/21
+  - name: Ethernet1/21
     type: 40gbase-x-qsfpp
-  - name: ethernet1/22
+  - name: Ethernet1/22
     type: 40gbase-x-qsfpp
-  - name: ethernet1/23
+  - name: Ethernet1/23
     type: 40gbase-x-qsfpp
-  - name: ethernet1/24
+  - name: Ethernet1/24
     type: 40gbase-x-qsfpp
-  - name: ha1-a
+  - name: Ha1-a
     type: 1000base-t
-  - name: ha1-b
+  - name: Ha1-b
     type: 1000base-t
-  - name: hsci
+  - name: Hsci
     type: 10gbase-x-sfpp
-  - name: management
+  - name: Management
     type: 1000base-t
     mgmt_only: true

@@ -13,16 +13,15 @@ console-ports:
   - name: console
     type: rj-45
 interfaces:
-  - name: management
+  - name: Management
     type: 100base-tx
     mgmt_only: true
-  - name: ethernet1/1
+  - name: Ethernet1/1
     type: 1000base-t
-  - name: ethernet1/2
+  - name: Ethernet1/2
     type: 1000base-t
-  - name: ethernet1/3
+  - name: Ethernet1/3
     type: 1000base-t
-  - name: ethernet1/4
+  - name: Ethernet1/4
     type: 1000base-t
-  - name: loopback
-    type: virtual
+

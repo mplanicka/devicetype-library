@@ -2,7 +2,7 @@
 manufacturer: Cisco
 model: Nexus 3048
 part_number: N3K-C3048TP-1GE
-slug: nexus-3048
+slug: nexus-3048tp-1ge
 u_height: 1
 is_full_depth: true
 console-ports:
