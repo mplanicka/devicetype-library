@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: Aironet CAP1602I-A-K9
+slug: air-cap1602i-a-k9
+part_number: AIR-CAP1602I-A-K9
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: WiFi
+    type: ieee802.11ac
+    mgmt_only: false
+  - name: GigabitEthernet0
+    type: 1000base-t
+    mgmt_only: false

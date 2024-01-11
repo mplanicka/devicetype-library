@@ -1,0 +1,29 @@
+---
+manufacturer: Cisco
+model: C8200-1N-4T
+slug: c8200-1n-4t
+part_number: C8200-1N-4T
+u_height: 1
+is_full_depth: false
+interfaces:
+  - name: GigabitEthernet0/0/0
+    type: 1000base-t
+  - name: GigabitEthernet0/0/1
+    type: 1000base-t
+  - name: GigabitEthernet0/0/2
+    type: 1000base-t
+  - name: GigabitEthernet0/0/3
+    type: 1000base-t
+console-ports:
+  - name: con 0
+    type: rj-45
+module-bays:
+  - name: Network Module
+    position: '1'
+power-ports:
+  - name: Power Supply 1
+    type: iec-60320-c14
+    maximum_draw: 250
+  - name: Power Supply 2
+    type: iec-60320-c14
+    maximum_draw: 250

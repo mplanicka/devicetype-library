@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: Aironet LAP1242AG-C-K9
+slug: air-lap1242ag-c-k9
+part_number: AIR-LAP1242AG-C-K9
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: WiFi
+    type: ieee802.11ac
+    mgmt_only: false
+  - name: GigabitEthernet0
+    type: 1000base-t
+    mgmt_only: false
